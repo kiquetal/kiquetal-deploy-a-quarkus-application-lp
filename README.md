@@ -1,2 +1,2 @@
-# deploying-a-quarkus-application-on-kubernetes-lp-author
-Repository for liveProject: Deploying a Quarkus Application on Kubernetes
+# deploy-a-quarkus-application-lp-author
+Repository for liveProject: Deploy a Quarkus Application
