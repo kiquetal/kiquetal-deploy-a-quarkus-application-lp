@@ -1,7 +1,23 @@
 apiVersion: v1
 kind: Namespace
 metadata:
+  creationTimestamp: "2022-06-11T22:11:25Z"
+  labels:
+    kubernetes.io/metadata.name: chillplus-catalog
+  managedFields:
+  - apiVersion: v1
+    fieldsType: FieldsV1
+    fieldsV1:
+      f:metadata:
+        f:labels:
+          .: {}
+          f:kubernetes.io/metadata.name: {}
+    manager: kubectl
+    operation: Update
+    time: "2022-06-11T22:11:25Z"
   name: chillplus-catalog
+  resourceVersion: "564608"
+  uid: 1a5839e0-af74-4b8e-ac9b-f79223c7367c
 spec:
   finalizers:
   - kubernetes

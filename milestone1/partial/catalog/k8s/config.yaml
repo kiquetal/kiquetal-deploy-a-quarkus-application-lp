@@ -1,0 +1,3 @@
+POSTGRES_DB: catalog
+POSTGRES_USER: catalog-user
+POSTGRES_HOST: postgres
